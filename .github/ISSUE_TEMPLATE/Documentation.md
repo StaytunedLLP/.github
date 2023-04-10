@@ -1,7 +1,7 @@
 ---
 name: Documentation
 about: Add or update documentation
-title: ""
+title: "📄 Docs"
 labels: 📄 docs, 🛞 work
 assignees: ""
 ---

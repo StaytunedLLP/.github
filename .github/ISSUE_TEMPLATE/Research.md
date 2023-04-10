@@ -1,7 +1,7 @@
 ---
 name: Research
 about: Create a new issue for research.
-title: ""
+title: "🔭 Title"
 labels: 🔭 research
 assignees: ""
 ---

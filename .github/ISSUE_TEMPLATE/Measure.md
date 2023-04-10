@@ -1,7 +1,7 @@
 ---
 name: Measure
 about: Create a new issue for measure.
-title: ""
+title: "⏱️ Title"
 labels: ⏱️ measure
 assignees: ""
 ---

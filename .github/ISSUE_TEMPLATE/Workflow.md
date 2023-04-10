@@ -1,7 +1,7 @@
 ---
 name: Workflow
 about: Any updates regarding organisation workflow
-title: ""
+title: "🪜 Title"
 labels: 🪜 workflow, 🛞 work
 assignees: ""
 ---
