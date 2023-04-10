@@ -2,7 +2,7 @@
 name: New Work
 about: Create a new issue for work.
 title: ""
-labels: "⏱️ work"
+labels: 🛞 work
 assignees: ""
 ---
 

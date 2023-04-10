@@ -2,7 +2,7 @@
 name: Research
 about: Create a new issue for research.
 title: ""
-labels: "⏱️ research"
+labels: 🔭 research
 assignees: ""
 ---
 

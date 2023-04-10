@@ -2,7 +2,7 @@
 name: Workflow
 about: Any updates regarding organisation workflow
 title: ""
-labels: ["🪜 workflow", "⏱️ work"]
+labels: 🪜 workflow, 🛞 work
 assignees: ""
 ---
 

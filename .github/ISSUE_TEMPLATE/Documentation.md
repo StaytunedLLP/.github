@@ -2,7 +2,7 @@
 name: Documentation
 about: Add or update documentation
 title: ""
-labels: 📄 docs, ⏱ work
+labels: 📄 docs, 🛞 work
 assignees: ""
 ---
 
