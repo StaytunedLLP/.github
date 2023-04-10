@@ -1,7 +1,7 @@
 ---
 name: Learn & Practice
 about: Create a new issue for learning.
-title: "📝 Title"
+title: "📝 "
 labels: 📝 learn & practice
 assignees: ""
 ---

@@ -1,7 +1,7 @@
 ---
 name: New Work
 about: Create a new issue for work.
-title: ""
+title: "🛞 "
 labels: 🛞 work
 assignees: ""
 ---
