@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project.
+name: Workflow
+about: Any updates regarding organisation workflow.
 title: ""
-labels: "🚦 feature request, "⏱️ work"
+labels: "⏳ workflow", "⏱️ work"
 assignees: ""
 ---
 

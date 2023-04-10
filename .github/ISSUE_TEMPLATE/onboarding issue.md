@@ -1,5 +1,5 @@
 ---
-name: On boarding Issue
+name: On boarding Issue | WIP
 about: On boarding to Github Issue.
 title: 'New Issue | On boarding'
 labels: ''

@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project.
+name: Documentation
+about: Add or update documentation
 title: ""
-labels: "🚦 feature request, "⏱️ work"
+labels: "📄 docs", "⏱️ work"
 assignees: ""
 ---
 
