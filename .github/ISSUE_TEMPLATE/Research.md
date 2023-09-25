@@ -23,7 +23,6 @@ assignees: ""
 
 ```[tasklist]
 ### Measure
-- [ ] 
 ```
 
 ```[tasklist]

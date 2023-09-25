@@ -26,7 +26,6 @@ assignees: ""
 
 ```[tasklist]
 ### Measure
-- [ ] 
 ```
 
 ```[tasklist]

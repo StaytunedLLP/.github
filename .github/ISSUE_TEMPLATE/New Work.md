@@ -21,7 +21,6 @@ assignees: ""
 
 ```[tasklist]
 ### Measure
-- [ ] Validate your task and add mesurements in this section.
 ```
 
 ```[tasklist]
