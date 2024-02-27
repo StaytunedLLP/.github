@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: bug 🐞
+name: ✨ Feature Request
+about: "Dream big, share your feature idea, and join the brainstorming squad to shape the future together!"
+title: "✨ "
+labels: Feature Request ✨
 assignees:
 ---
 

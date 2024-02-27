@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: bug 🐞
+name: 🪪 Access Request
+about: Empower collaboration! Share your access needs and join the team on its journey.
+title: "🪪 "
+labels: access update 🪪
 assignees:
 ---
 
