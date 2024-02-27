@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug Report
-about: Spot a bug? Let's squash it together and make this project even better!
-title: "🐞 "
-labels: bug 🐞
+name: 🚨 Security Report
+about: Security heroes needed! Share your findings and join the team to fortify our defences.
+title: "🚨 "
+labels: security 🚨
 assignees:
 ---
 
