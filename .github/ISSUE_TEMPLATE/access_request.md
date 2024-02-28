@@ -2,7 +2,7 @@
 name: 🪪 Access Request
 about: Empower collaboration! Share your access needs and join the team on its journey.
 title: "🪪 "
-labels: access update 🪪
+labels: "access update :lock:"
 assignees:
 ---
 
