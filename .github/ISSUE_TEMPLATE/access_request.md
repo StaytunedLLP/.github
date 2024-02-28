@@ -1,8 +1,8 @@
 ---
-name: 🪪 Access Request
+name: 🔒 Access Request
 about: Empower collaboration! Share your access needs and join the team on its journey.
-title: "🪪 "
-labels: "access update :lock:"
+title: "🔒 "
+labels: "access request :lock:"
 assignees:
 ---
 
