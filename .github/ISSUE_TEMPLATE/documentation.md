@@ -1,8 +1,8 @@
 ---
-name: 📖 Documentation
+name: 📝 Documentation
 about: Together, we can craft docs that inspire and guide. Share your thoughts!
-title: "📖 "
-labels: "documentation :open_book:"
+title: "📝 "
+labels: "documentation :memo:"
 assignees:
 ---
 
