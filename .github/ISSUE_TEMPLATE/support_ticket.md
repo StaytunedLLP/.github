@@ -2,7 +2,7 @@
 name: 🎫 Support Ticket
 about: Awesome solutions await! Team up with us by submitting a ticket and your question.
 title: "🎫 "
-labels: ticket 🎫
+labels: "ticket :ticket:"
 assignees:
 ---
 

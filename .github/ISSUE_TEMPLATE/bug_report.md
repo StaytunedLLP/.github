@@ -2,7 +2,7 @@
 name: 🐞 Bug Report
 about: Spot a bug? Let's squash it together and make this project even better!
 title: "🐞 "
-labels: bug 🐞
+labels: "bug :lady_beetle:"
 assignees:
 ---
 

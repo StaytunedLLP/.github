@@ -2,7 +2,7 @@
 name: ✨ Feature Request
 about: "Dream big, share your feature idea, and join the brainstorming squad to shape the future together!"
 title: "✨ "
-labels: Feature Request ✨
+labels: "feature Request :sparkles:"
 assignees:
 ---
 
