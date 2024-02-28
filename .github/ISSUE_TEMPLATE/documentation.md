@@ -2,7 +2,7 @@
 name: 📖 Documentation
 about: Together, we can craft docs that inspire and guide. Share your thoughts!
 title: "📖 "
-labels: documentation 📖
+labels: "documentation :open_book:"
 assignees:
 ---
 

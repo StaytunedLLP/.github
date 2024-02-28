@@ -2,7 +2,7 @@
 name: 🚨 Security Report
 about: Security heroes needed! Share your findings and join the team to fortify our defences.
 title: "🚨 "
-labels: security 🚨
+labels: "security :rotating_light:"
 assignees:
 ---
 

@@ -2,7 +2,7 @@
 name: 🏖 Time-Off Request
 about: Stepping away to fuel future team wins! See you all refreshed and ready to crush it.
 title: "🏖 "
-labels: time off 🏖
+labels: "time off :beach_umbrella:"
 assignees:
 ---
 
