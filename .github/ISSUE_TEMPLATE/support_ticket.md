@@ -6,6 +6,9 @@ labels: "ticket :ticket:"
 assignees:
 ---
 
+> [!IMPORTANT]
+> Imagine Big. Together with Ai, we can build 10X better products through continuous improvements. 🤖
+
 ## Summary
 
 1.

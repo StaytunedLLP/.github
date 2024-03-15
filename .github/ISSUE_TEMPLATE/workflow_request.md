@@ -1,8 +1,8 @@
 ---
-name: 🏳 Feature Flag
-about: Together, we can craft docs that inspire and guide. Share your thoughts!
-title: "🏳 "
-labels: "feature flag :white_flag:"
+name: 🙋 Workflow Request
+about: Empower collaboration! Share your workflow needs and join the team on its journey.
+title: "🙋 "
+labels: "workflow request :raising_hand:"
 assignees:
 ---
 
