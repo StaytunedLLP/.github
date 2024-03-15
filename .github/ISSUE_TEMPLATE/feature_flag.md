@@ -1,6 +1,6 @@
 ---
 name: 🏳 Feature Flag
-about: Together, we can craft docs that inspire and guide. Share your thoughts!
+about: "Experiment safely! Refine & iterate on impactful features, collaboratively."
 title: "🏳 "
 labels: "feature flag :white_flag:"
 assignees:
