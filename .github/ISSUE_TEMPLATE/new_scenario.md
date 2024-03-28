@@ -1,6 +1,6 @@
 ---
 name: New Scenario
-about: Let's team up! Craft a crystal-clear issue so we can solve it together, fast.
+about: Let's team up! Craft a crystal-clear issue so we can solve it together, fast..
 title: ""
 labels:
 assignees:
