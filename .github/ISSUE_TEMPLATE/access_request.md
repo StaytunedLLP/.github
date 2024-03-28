@@ -1,13 +1,10 @@
 ---
-name: New Issue
-about: Let's team up! Craft a crystal-clear issue so we can solve it together, fast.
-title: ""
-labels:
+name: ð Access Request
+about: Empower collaboration! Share your access needs and join the team on its journey.
+title: "ð "
+labels: "access request :lock:"
 assignees:
 ---
-
-> [!IMPORTANT]
-> Imagine Big. Together with Ai, we can build 10X better products through continuous improvements. ð¤
 
 ## Summary
 
