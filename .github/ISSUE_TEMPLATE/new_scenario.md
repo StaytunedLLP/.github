@@ -1,9 +1,9 @@
 ---
-name: New Scenario
-about: Let's team up! Craft a crystal-clear issue so we can solve it together, fast..
+name: New Scenario 
+about: Fresh feature unlocked! Let's craft a stellar scenario to bring it to life.
 title: ""
-labels:
-assignees:
+labels: "type: new scenario :jigsaw:"
+assignees: 
 ---
 
 > [!IMPORTANT]
