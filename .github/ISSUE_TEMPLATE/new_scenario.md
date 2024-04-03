@@ -1,6 +1,6 @@
 ---
 name: New Scenario
-about: Fresh feature unlocked! Let's craft a stellar scenario to bring it to life
+about: Fresh feature unlocked! Let's craft a stellar scenario to bring it to life.
 title: ""
 labels: "type: new scenario :jigsaw:"
 assignees:
