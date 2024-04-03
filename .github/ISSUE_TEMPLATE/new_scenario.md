@@ -1,13 +1,13 @@
 ---
-name: New Scenario 
-about: Fresh feature unlocked! Let's craft a stellar scenario to bring it to life.
+name: New Scenario
+about: Fresh feature unlocked! Let's craft a stellar scenario to bring it to life
 title: ""
 labels: "type: new scenario :jigsaw:"
-assignees: 
+assignees:
 ---
 
 > [!IMPORTANT]
-> Imagine Big. Together with Ai, we can build 10X better products through continuous improvements. ð¤
+> Imagine Big. Together with Ai, we can build 10X better products through continuous improvements. 🤖
 
 ## Summary
 
