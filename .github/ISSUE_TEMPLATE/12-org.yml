@@ -1,0 +1,32 @@
+name: Org 🏢
+description: An organization or company
+title: '|'
+type: 'Org 🏢'
+projects: ['StaytunedLLP/58']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        🚀 Speed Leads, Ship Every Day.
+
+  - type: textarea
+    attributes:
+      label: Organization Details
+      value: |
+        **Organization Name:**  
+        **Industry/Sector:**  
+        **Primary Contact(s):**  
+        **Relationship Type:** (e.g., Client, Vendor, Partner, Prospect)  
+        **Connection Owner (Internal):**  
+        **Start Date of Relationship:**  
+        **Location/Headquarters:**  
+
+        ### Purpose of Connection
+        - Briefly describe why this organization is connected to StaytunedLLP or the project.
+
+        ### Key Areas of Collaboration
+        - List main projects, deals, or areas of engagement.
+
+        ### Communication Preferences
+        - Preferred channels, frequency, and contact details.
