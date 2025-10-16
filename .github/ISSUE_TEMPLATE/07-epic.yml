@@ -2,20 +2,20 @@ name: Epic 🏔️
 description: Large work split into smaller tasks
 title: '|'
 type: 'Epic 🏔️'
-projects: ['StaytunedLLP/66',"StaytunedLLP/72"]
+projects: ['StaytunedLLP/66', 'StaytunedLLP/72']
 
 body:
   - type: markdown
     attributes:
       value: |
-        🚀 Speed Leads, Ship Every Day.  
+        🚀 Speed Leads, Ship Every Day.
 
   - type: textarea
     attributes:
-      label: Epic Description & Details
+      label: Description
       value: |
         ### Why this is important
-        
+
         1. 
 
         ### Details
@@ -34,4 +34,3 @@ body:
         - [ ] 
 
         ### Additional context
-

@@ -1,18 +1,18 @@
 name: Test 🧪
 description: Testing or quality assurance
-title: "|"
-type: "Test 🧪"
-projects: ["StaytunedLLP/30","StaytunedLLP/43","StaytunedLLP/72"]
+title: '|'
+type: 'Test 🧪'
+projects: ['StaytunedLLP/30', 'StaytunedLLP/43', 'StaytunedLLP/72']
 
 body:
   - type: markdown
     attributes:
       value: |
-        🚀 Speed Leads, Ship Every Day.  
+        🚀 Speed Leads, Ship Every Day.
 
   - type: textarea
     attributes:
-      label: Test Case Description
+      label: Description
       value: |
         Test Case ID: TC-000
         Title: 

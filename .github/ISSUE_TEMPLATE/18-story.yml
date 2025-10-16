@@ -1,25 +1,25 @@
 name: Story 🌟
 description: User-focused narrative or journey
-title: "|"
-type: "Story 🌟"
-projects: ["StaytunedLLP/43","StaytunedLLP/72"]
+title: '|'
+type: 'Story 🌟'
+projects: ['StaytunedLLP/43', 'StaytunedLLP/72']
 
 body:
   - type: markdown
     attributes:
       value: |
-        🚀 Speed Leads, Ship Every Day.  
+        🚀 Speed Leads, Ship Every Day.
 
   - type: textarea
     attributes:
-      label: User Story Description
+      label: Description
       value: |
         As a
         I want to
         so that
 
         ### Why this is important
-        
+
         1. 
 
         ### Details
@@ -39,9 +39,7 @@ body:
         #00 
 
         ### Acceptance Criteria
-        
+
         - [ ] 
 
         ### Additional Context
-
-  

@@ -1,25 +1,25 @@
 name: Measure 📈
 description: Metrics and analytics tracking
-title: "|"
-type: "Measure 📈"
-projects: ["StaytunedLLP/42","StaytunedLLP/72"]
+title: '|'
+type: 'Measure 📈'
+projects: ['StaytunedLLP/42', 'StaytunedLLP/72']
 
 body:
   - type: markdown
     attributes:
       value: |
-        🚀 Speed Leads, Ship Every Day.  
+        🚀 Speed Leads, Ship Every Day.
 
   - type: textarea
     attributes:
-      label: Issue Description
+      label: Description
       value: |
         As a
         I want to
         so that
 
         ### Why this is important
-        
+
         1. 
 
         ### Details
@@ -40,7 +40,7 @@ body:
         Story #00
 
         ### Acceptance Criteria
-        
+
         - [ ] 
 
         ### Additional Context

@@ -1,18 +1,18 @@
 name: Flag 🚩
 description: Feature flag or toggle
-title: "|"
-type: "Flag 🚩"
-projects: ["StaytunedLLP/71","StaytunedLLP/43"]
+title: '|'
+type: 'Flag 🚩'
+projects: ['StaytunedLLP/71', 'StaytunedLLP/43']
 
 body:
   - type: markdown
     attributes:
       value: |
-        🚀 Speed Leads, Ship Every Day.  
+        🚀 Speed Leads, Ship Every Day.
 
   - type: textarea
     attributes:
-      label: Feature Flag Details
+      label: Description
       value: |
         **Flag name:** 
         **Flag key:** 

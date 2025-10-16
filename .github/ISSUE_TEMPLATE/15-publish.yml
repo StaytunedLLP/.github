@@ -1,25 +1,25 @@
 name: Publish 📢
-description: Marketing workflow tracking 
-title: "|"
-type: "Publish 📢"
-projects: ["StaytunedLLP/54","StaytunedLLP/72"]
+description: Marketing workflow tracking
+title: '|'
+type: 'Publish 📢'
+projects: ['StaytunedLLP/54', 'StaytunedLLP/72']
 
 body:
   - type: markdown
     attributes:
       value: |
-        🚀 Speed Leads, Ship Every Day.  
+        🚀 Speed Leads, Ship Every Day.
 
   - type: textarea
     attributes:
-      label: Issue Description
+      label: Description
       value: |
         As a
         I want to
         so that
 
         ### Why this is important
-        
+
         1. 
 
         ### Diagrams
@@ -40,7 +40,7 @@ body:
         Story #00
 
         ### Acceptance Criteria
-        
+
         - [ ] 
 
         ### Additional Context
