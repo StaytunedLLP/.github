@@ -1,0 +1,68 @@
+# -----------------------------------------------------------------------------
+# CODEOWNERS
+# -----------------------------------------------------------------------------
+# Defines who is responsible for specific parts of this repository.
+# GitHub uses this file to automatically request reviews from code owners.
+#
+# Format:
+#   <file pattern>   <owner>
+# Owners can be:
+#   @username or @organization/team
+# -----------------------------------------------------------------------------
+# Enforcement:
+# To enforce code owner approvals:
+# 1. Go to: Settings → Branches → Branch Protection Rules.
+# 2. Enable “Require review from Code Owners.”
+# 3. Add "@StaytunedLLP/codeowners" as the required reviewer team.
+# This enables dynamic membership control—no file edits needed for member changes.
+# -----------------------------------------------------------------------------
+
+
+# -----------------------------------------------------------------------------
+# 1. Repository Configuration and Environment Setup
+# -----------------------------------------------------------------------------
+# All GitHub-specific configurations, workflows, issue templates, etc.
+/.github/ @StaytunedLLP/codeowners
+
+# All VS Code workspace configurations at the root level.
+/.vscode/ @StaytunedLLP/codeowners
+
+# All Dev Container setup files (for development environments).
+/.devcontainer/ @StaytunedLLP/codeowners
+
+
+# -----------------------------------------------------------------------------
+# 2. Documentation (covers all docs folders and nested docs)
+# -----------------------------------------------------------------------------
+# Any "docs" folder and its contents, at any depth in the repository.
+docs/ @StaytunedLLP/codeowners
+**/docs/ @StaytunedLLP/codeowners
+**/docs/** @StaytunedLLP/codeowners
+
+
+# -----------------------------------------------------------------------------
+# 3. File Type Ownership (applies globally to all directories)
+# -----------------------------------------------------------------------------
+# Markdown documentation files
+*.md @StaytunedLLP/codeowners
+
+# JSON configuration or data files
+*.json @StaytunedLLP/codeowners
+
+# YAML configuration files (both common extensions)
+*.yml @StaytunedLLP/codeowners
+*.yaml @StaytunedLLP/codeowners
+
+# Mermaid diagram files (for visual architecture or documentation)
+*.mmd @StaytunedLLP/codeowners
+
+
+# -----------------------------------------------------------------------------
+# 4. Future Additions (extend as repository grows)
+# -----------------------------------------------------------------------------
+# Add more rules below for new folders, services, or teams.
+# Example:
+# src/ @StaytunedLLP/backend-team
+# ui/  @StaytunedLLP/frontend-team
+# infra/ @StaytunedLLP/devops
+# -----------------------------------------------------------------------------
