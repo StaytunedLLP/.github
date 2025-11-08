@@ -18,7 +18,7 @@
 # -----------------------------------------------------------------------------
 
 
-# -----------------------------------------------------------------------------
+# --------------------------- Code Owners -----------------------------------
 # 1. Repository Configuration and Environment Setup
 # -----------------------------------------------------------------------------
 # All GitHub-specific configurations, workflows, issue templates, etc.
@@ -56,6 +56,37 @@ docs/ @StaytunedLLP/codeowners
 # Mermaid diagram files (for visual architecture or documentation)
 *.mmd @StaytunedLLP/codeowners
 
+*.csv @StaytunedLLP/codeowners
+
+
+# -----------------------------------------------------------------------------
+# 4. Assets (covers all asset files and folders)
+# -----------------------------------------------------------------------------
+# Any "assets" folder and its contents, at any depth in the repository.
+assets/ @StaytunedLLP/codeowners
+**/assets/ @StaytunedLLP/codeowners
+**/assets/** @StaytunedLLP/codeowners
+
+
+# -----------------------------------------------------------------------------
+# 5. devops (covers all devops files and folders)
+# -----------------------------------------------------------------------------
+# Any "devops" folder and its contents, at any depth in the repository.
+devops/ @StaytunedLLP/codeowners
+**/devops/ @StaytunedLLP/codeowners
+**/devops/** @StaytunedLLP/codeowners
+
+
+# -----------------------------------------------------------------------------
+# 6. dagger (covers all dagger files and folders)
+# -----------------------------------------------------------------------------
+# Any "dagger" folder and its contents, at any depth in the repository.
+dagger/ @StaytunedLLP/codeowners
+**/dagger/ @StaytunedLLP/codeowners
+**/dagger/** @StaytunedLLP/codeowners
+cicd/ @StaytunedLLP/codeowners
+**/cicd/ @StaytunedLLP/codeowners
+**/cicd/** @StaytunedLLP/codeowners
 
 # -----------------------------------------------------------------------------
 # 4. Future Additions (extend as repository grows)
