@@ -1,4 +1,4 @@
-# Code Of Conduct
+# Support
 
 This file will be updated soon. Please check back later.
 

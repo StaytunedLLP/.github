@@ -1,4 +1,4 @@
-# Code Of Conduct
+# Security Policy
 
 This file will be updated soon. Please check back later.
 

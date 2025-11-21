@@ -1,4 +1,4 @@
-# Code Of Conduct
+# Contributing Guidelines
 
 This file will be updated soon. Please check back later.
 
