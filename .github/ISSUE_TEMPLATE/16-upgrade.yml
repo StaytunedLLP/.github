@@ -1,42 +1,45 @@
 name: Upgrade 🧬
-description: Dependency or version update
-title: '|'
-type: 'Upgrade 🧬'
+description: Improvement, Refactor, or New Requirement for existing Feature
+title: "|"
+type: "Upgrade 🧬"
 projects: ["StaytunedLLP/43"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        🚀 Speed Leads, Ship Every Day.
+        🚀 **Speed Leads, Ship Every Day.**
+        _Define the delta (change) required for the existing blueprint._
 
   - type: textarea
     attributes:
-      label: Description
+      label: Upgrade Plan
       value: |
-        As a
-        I want to
-        so that
+        ## 1. Context & Blueprint
+        *   **Original Feature:** Feature #[ID]
+        *   **Reason for Upgrade:** [e.g. New business requirement, Refactor]
 
-        ### Why this is important
+        ## 2. Work Orders (Changes Required)
+        *(Fill the applicable section and delete others)*
 
-        1. 
+        ---
+        ### [Option A] ADD NEW STORY: Story #[Next_Number] - [Title]
+        *   **Goal:** [New user value]
+        *   **UI Generation (intro MCP):**
+            *   **Layout:** ...
+            *   **Components:** ...
+        *   **Scenarios:**
+            *   **Scenario X.1:** [Given/When/Then]
 
-        ### Diagrams
+        ---
+        ### [Option B] MODIFY EXISTING SCENARIO: Story #[X], Scenario #[Y]
+        *   **Change:**
+            *   **FROM:** [Old behavior]
+            *   **TO:** [New behavior]
 
-        1. [File/Diagram Name](Link) - Brief description of the diagram
-
-        ### Designs
-
-        1. [File/Design Name](Link) - Brief description of the design
-
-        ### Association
-
-        Feature #00
-        Story #00
-
-        ### Acceptance Criteria
-
-        - [ ] 
-
-        ### Additional Context
+        ## 3. Definition of Done
+        - [ ] Code changes implemented.
+        - [ ] Tests passed.
+        - [ ] **Documentation Update:** The original Feature Blueprint (Markdown/Issue) has been updated (`[Added/Updated in Upgrade #[ID]]`).
+    validations:
+      required: true

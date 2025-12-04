@@ -1,5 +1,5 @@
 name: Bug 🐞
-description: Unexpected problem or behavior
+description: Unexpected problem or behavior (Traceable to a Feature)
 title: "|"
 type: "Bug 🐞"
 projects: ["StaytunedLLP/43"]
@@ -8,39 +8,34 @@ body:
   - type: markdown
     attributes:
       value: |
-        🚀 Speed Leads, Ship Every Day.
+        🚀 **Speed Leads, Ship Every Day.**
+        _Link this bug to the original Feature Blueprint for context._
 
   - type: textarea
     attributes:
-      label: Description
+      label: Bug Report (AI Prompt)
       value: |
-        As a
-        I want to
-        so that
+        ## 1. Context & Blueprint
+        *   **Original Feature:** Feature #[ID]
+        *   **Failing Component:** [e.g., Story 2, Scenario 2.1]
 
-        ### Why this is important
+        ## 2. The Failure
+        *   **Observed Behavior (The Bug):**
+            *   [What is happening now?]
+        *   **Expected Behavior (The Fix):**
+            *   [What SHOULD happen according to the scenario?]
 
-        1. 
+        ## 3. Replication Steps (Given/When/Then)
+        *   **Given** [State from original Scenario]
+        *   **When** [Action that triggers bug]
+        *   **Then** [The incorrect outcome]
 
-        ### Steps to Reproduce the bug
+        ## 4. Technical Scope (The "Where")
+        *(Copy directly from the 'Technical Plan' section of the original Feature Blueprint)*
 
-        1. 
-
-        ### Diagrams
-
-        1. [File/Diagram Name](Link) - Brief description of the diagram
-
-        ### Designs
-
-        1. [File/Design Name](Link) - Brief description of the design
-
-        ### Association
-
-        Feature #00
-        Story #00
-
-        ### Acceptance Criteria
-
-        - [ ] 
-
-        ### Additional Context
+        ## 5. Definition of Done
+        - [ ] The bug is fixed in the code.
+        - [ ] A regression test is added to the Test Files.
+        - [ ] **Documentation Update:** The original Feature Blueprint (Markdown/Issue) has been updated with `[Fixed in Bug #[ID]]`.
+    validations:
+      required: true
