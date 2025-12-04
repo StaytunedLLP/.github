@@ -1,6 +1,6 @@
 name: Bug 🐞
 description: Unexpected problem or behavior (Traceable to a Feature)
-title: "[Description]"
+title: "|"
 type: "Bug 🐞"
 projects: ["StaytunedLLP/43"]
 
