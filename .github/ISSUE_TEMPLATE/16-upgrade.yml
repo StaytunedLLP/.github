@@ -1,6 +1,6 @@
 name: Upgrade 🧬
 description: Improvement, Refactor, or New Requirement for existing Feature
-title: "Upgrade: [Summary] (Ref: Feature #[ID])"
+title: "[Summary]"
 type: "Upgrade 🧬"
 projects: ["StaytunedLLP/43"]
 

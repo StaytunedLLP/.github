@@ -1,6 +1,6 @@
 name: Feature 🧩
 description: A new capability or functionality (The Master Blueprint)
-title: "Feature: [Title]"
+title: "[Title]"
 type: "Feature 🧩"
 projects: ["StaytunedLLP/43"]
 
@@ -56,7 +56,7 @@ body:
                 *   **Given** [Primary, most common user flow and system state. Describe in detail: user type, preconditions, relevant data state, and environment.]
                 *   **When** [The main trigger/action the user performs. Be explicit about API call, UI action, or background job.]
                 *   **Then** [The ideal outcome. Include: domain state changes, side effects (events, emails, etc.), and user-visible results.]
-                *   **And*** [Additional outcomes if needed.]
+                *   **And** [Additional outcomes if needed.]
 
             *   **Scenario 1.2+ and beyond:**
                 *   Use **as many additional scenarios as needed** (1.2, 1.3, 1.4, …) to fully cover:
@@ -72,7 +72,7 @@ body:
                         *   **Given** [Concrete preconditions and state – user type, data state, feature flags, environment.]
                         *   **When** [Specific trigger: exact API, UI action, background job, or event.]
                         *   **Then** [Expected outcome, including: domain state, side effects (events, emails, logs), error codes/messages, and any important metrics/observability expectations.]
-                        *   **And*** [Additional outcomes if needed.]
+                        *   **And** [Additional outcomes if needed.]
 
 
         ---
