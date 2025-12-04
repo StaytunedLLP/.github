@@ -31,7 +31,7 @@ body:
         *   **Then** [The incorrect outcome]
 
         ## 4. Technical Scope (The "Where")
-        *(Copy directly from the 'Relevant Files' section of the original Feature Blueprint)*
+        *(Copy directly from the 'Technical Plan' section of the original Feature Blueprint)*
 
         ## 5. Definition of Done
         - [ ] The bug is fixed in the code.
