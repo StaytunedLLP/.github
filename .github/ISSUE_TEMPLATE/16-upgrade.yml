@@ -1,45 +1,36 @@
 name: Upgrade 🧬
-description: Improvement, Refactor, or New Requirement for existing Feature
-title: "|"
-type: "Upgrade 🧬"
+description: Dependency or version update
+type: 'Upgrade 🧬'
 projects: ["StaytunedLLP/43"]
 
 body:
   - type: markdown
     attributes:
-      value: |
-        🚀 **Speed Leads, Ship Every Day.**
-        _Define the delta (change) required for the existing blueprint._
+      value: Let AI build, be orchestrator, ship instantly. 🤖🪄🚀
 
   - type: textarea
     attributes:
-      label: Upgrade Plan
+      label: Description
       value: |
-        ## 1. Context & Blueprint
-        *   **Original Feature:** Feature #[ID]
-        *   **Reason for Upgrade:** [e.g. New business requirement, Refactor]
+        ### Objective
+        
+        1. 
 
-        ## 2. Work Orders (Changes Required)
-        *(Fill the applicable section and delete others)*
+        ### Current State
 
-        ---
-        ### [Option A] ADD NEW STORY: Story #[Next_Number] - [Title]
-        *   **Goal:** [New user value]
-        *   **UI Generation (intro MCP):**
-            *   **Layout:** ...
-            *   **Components:** ...
-        *   **Scenarios:**
-            *   **Scenario X.1:** [Given/When/Then]
+        1. 
 
-        ---
-        ### [Option B] MODIFY EXISTING SCENARIO: Story #[X], Scenario #[Y]
-        *   **Change:**
-            *   **FROM:** [Old behavior]
-            *   **TO:** [New behavior]
+        ### New State
 
-        ## 3. Definition of Done
-        - [ ] Code changes implemented.
-        - [ ] Tests passed.
-        - [ ] **Documentation Update:** The original Feature Blueprint (Markdown/Issue) has been updated (`[Added/Updated in Upgrade #[ID]]`).
-    validations:
-      required: true
+        1. 
+
+        ### Assets
+
+        1. Design:
+        2. Tech Spec:
+
+        ### Acceptance Criteria
+
+        - [ ] 
+
+        ### Context

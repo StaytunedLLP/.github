@@ -1,41 +1,40 @@
 name: Bug 🐞
-description: Unexpected problem or behavior (Traceable to a Feature)
-title: "|"
+description: Unexpected problem or behavior
 type: "Bug 🐞"
 projects: ["StaytunedLLP/43"]
 
 body:
   - type: markdown
     attributes:
-      value: |
-        🚀 **Speed Leads, Ship Every Day.**
-        _Link this bug to the original Feature Blueprint for context._
+      value: Let AI build, be orchestrator, ship instantly. 🤖🪄🚀
 
   - type: textarea
     attributes:
-      label: Bug Report (AI Prompt)
+      label: Description
       value: |
-        ## 1. Context & Blueprint
-        *   **Original Feature:** Feature #[ID]
-        *   **Failing Component:** [e.g., Story 2, Scenario 2.1]
 
-        ## 2. The Failure
-        *   **Observed Behavior (The Bug):**
-            *   [What is happening now?]
-        *   **Expected Behavior (The Fix):**
-            *   [What SHOULD happen according to the scenario?]
+        ### Bug Details
 
-        ## 3. Replication Steps (Given/When/Then)
-        *   **Given** [State from original Scenario]
-        *   **When** [Action that triggers bug]
-        *   **Then** [The incorrect outcome]
+        1. 
 
-        ## 4. Technical Scope (The "Where")
-        *(Copy directly from the 'Technical Plan' section of the original Feature Blueprint)*
+        ### Steps to Reproduce
 
-        ## 5. Definition of Done
-        - [ ] The bug is fixed in the code.
-        - [ ] A regression test is added to the Test Files.
-        - [ ] **Documentation Update:** The original Feature Blueprint (Markdown/Issue) has been updated with `[Fixed in Bug #[ID]]`.
-    validations:
-      required: true
+        1. 
+
+        ### Expected
+        
+        1.
+
+        ### Actual
+
+        1. 
+
+        ### Acceptance Criteria
+
+        - [ ] 
+
+        ### Context
+        
+        * Screenshots or Screen recording (Loom/GIF).
+        * Error logs or Stack trace.
+        * Environment (e.g., Chrome on Mac).
