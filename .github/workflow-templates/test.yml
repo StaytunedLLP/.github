@@ -5,7 +5,7 @@ on:
       - opened
 jobs:
   comment:
-    runs-on: ubuntu-latest
+    runs-on: st-arc
     steps:
       - run: gh issue comment $ISSUE --body "Thank you for opening this issue!"
         env:
