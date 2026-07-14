@@ -1,0 +1,27 @@
+name: Agent 🤖
+description: Autonomous AI Assistant
+type: "Agent 🤖"
+projects: ["StaytunedLLP/43"]
+
+body:
+  - type: markdown
+    attributes:
+      value: Let AI build, be orchestrator, ship instantly. 🤖🪄🚀
+
+  - type: textarea
+    attributes:
+      label: Description
+      value: |
+        ### Purpose
+        <!-- What does this Agent do? -->
+
+        ### Scope
+        <!-- Define what the Agent can and cannot do. -->
+
+        - Can:
+        - Cannot:
+
+        ### Acceptance Criteria
+        <!-- How to verify the Agent works correctly. -->
+
+        - [ ] Works as expected
